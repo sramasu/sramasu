@@ -1,5 +1,8 @@
-V SRAVAN REDDY
+<div align="center">
 
+# <span style="color:#8B5CF6">⚡ V SRAVAN REDDY ⚡</span>
+
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER+%7C+AI%2FML+%26+LLM+ENGINEER;CYBERSECURITY+%7C+CLOUD+%7C+DATA+ENGINEERING;BUILDING+INTELLIGENT+AND+SECURE+DIGITAL+SYSTEMS;RAG+%7C+AGENTS+%7C+LLMs+%7C+THREAT+DETECTION;LEARN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+SECURE+%E2%86%92+DEPLOY+%E2%86%92+SCALE" alt="V Sravan Reddy - Developer Introduction" />

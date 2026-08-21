@@ -1,33 +1,9 @@
-```html
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12,15&height=220&section=header&text=V%20SRAVAN%20REDDY&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI/ML%20%26%20LLM%20Engineer%20%7C%20Cybersecurity&descSize=16&descAlignY=70&descColor=e9d5ff" width="100%" alt="V SRAVAN REDDY Header Banner" />
   <br>
   <a href="https://github.com/sramasu">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+intelligent%2C+security-first+digital+systems+%F0%9F%A4%96;Full-Stack+Developer+%2B+AI%2FML+%2B+LLM+Engineer+%E2%9A%A1;Engineering+RAG+Pipelines%2C+Agents+%26+LangChain+%F0%9F%A7%A0;Fortifying+Software+with+OWASP+%26+Threat+Ops+%F0%9F%9B%A1%EF%B8%8F;Analyzing+Data+Pipelines%2C+Graphs+%26+Blockchain+%F0%9F%90%B3;Deploying+Cloud+Infra%2C+DevOps+%26+Microservices+%E2%98%81%EF%B8%8F;LEARN+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+SECURE+%E2%86%92+SCALE+%F0%9F%9A%80" alt="V Sravan Reddy Typing Introduction" />
   </a>
-</div>
-```
-  
-  <h3><b>Full Stack Developer &middot; AI/ML &amp; LLM Engineer &middot; Cybersecurity Focus</b></h3>
-
-  <p>
-    <a href="https://github.com/sramasu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/sravan-v-905534384"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sravanv2611@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.codechef.com/users/sravan_20_06"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-    <a href="https://leetcode.com/u/V_SRAVAN_REDDY/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  </p>
-
-  <p><b>Building scalable, intelligent and security-first digital systems.</b></p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sramasu&style=flat-square&color=8b5cf6&label=PROFILE%20VIEWS" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/sramasu?style=flat-square&color=06b6d4&labelColor=111827&logo=github" alt="GitHub followers" />
-    <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Cloud-ec4899?style=flat-square&labelColor=111827" alt="Focus areas" />
-    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-22c55e?style=flat-square&labelColor=111827" alt="Location" />
-  </p>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ## 👋 About Me

@@ -1,26 +1,113 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12&height=200&section=header&text=V%20SRAVAN%20REDDY&fontSize=58&fontAlignY=42&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%26%20LLM%20Engineer%20%C2%B7%20Cybersecurity&descSize=18&descAlignY=74&descColor=e9d5ff" width="100%" alt="V Sravan Reddy banner" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+intelligent+digital+systems+%F0%9F%A4%96;Engineering+secure+full-stack+experiences+%F0%9F%9B%A1%EF%B8%8F;Exploring+RAG%2C+agents+and+cybersecurity+%E2%9A%A1;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Scale+%F0%9F%9A%80" alt="Typing introduction" />
-  <br>
-  <h3 align="center">Full Stack Developer &middot; AI/ML &amp; LLM Engineer &middot; Cybersecurity Focus</h3>
-  <p>
-    <a href="https://github.com/sramasu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/sravan-v-905534384"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sravanv2611@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://www.codechef.com/users/sravan_20_06"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-    <a href="https://leetcode.com/u/V_SRAVAN_REDDY/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  </p>
-  <p><b>Building scalable, intelligent and security-first digital systems.</b></p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=sramasu&style=flat-square&color=8b5cf6&label=PROFILE%20VIEWS" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/sramasu?style=flat-square&color=06b6d4&labelColor=111827&logo=github" alt="GitHub followers" />
-    <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Cloud-ec4899?style=flat-square&labelColor=111827" alt="Focus areas" />
-    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-22c55e?style=flat-square&labelColor=111827" alt="Location" />
-  </p>
+
+⚡ V SRAVAN REDDY
+
+Full-Stack Developer · AI/ML & LLM Engineer · Cybersecurity Focus
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=850&color=06B6D4&center=true&vCenter=true&width=850&lines=Building+intelligent+digital+systems;Engineering+secure+full-stack+experiences;Exploring+RAG%2C+agents+%26+AI+automation;Turning+data+into+actionable+intelligence;LEARN+%E2%86%92+BUILD+%E2%86%92+SECURE+%E2%86%92+SCALE" alt="Typing introduction" />
+
+<p>
+  <a href="https://github.com/sramasu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sravan-v-905534384"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sravanv2611@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.codechef.com/users/sravan_20_06"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://leetcode.com/u/V_SRAVAN_REDDY/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+</p>
+
+<p><b>Building scalable, intelligent and security-first digital systems.</b></p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sramasu&style=flat-square&color=8b5cf6&label=PROFILE%20VIEWS" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/sramasu?style=flat-square&color=06b6d4&labelColor=111827&logo=github" alt="GitHub followers">
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Security%20%7C%20Cloud-ec4899?style=flat-square&labelColor=111827" alt="Focus">
+  <img src="https://img.shields.io/badge/Bengaluru-India-22c55e?style=flat-square&labelColor=111827" alt="Location">
+</p>
+
 </div>
 
-👋 About Me
+🧩 ENGINEERING STACK
+
+A compact view of the technologies, platforms and concepts I work with.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+</> Languages & Runtimes
+
+Python JavaScript SQL C Java (Basics) Node.js Axios Pandas
+
+</td>
+<td width="50%" valign="top">
+
+◈ AI & ML Engineering
+
+Scikit-learn TensorFlow PyTorch Transformers HuggingFace LangChain RAG Pipelines Deep Learning NLP LLMs Prompt Engineering Jupyter Notebook Isolation Forest Random Forest Data Preprocessing Feature Engineering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+◇ Web Architecture
+
+React.js Next.js HTML5 CSS3 TailwindCSS Express.js FastAPI REST APIs Vite WebSockets
+
+</td>
+<td width="50%" valign="top">
+
+▣ Data & Blockchain Systems
+
+PostgreSQL MongoDB MySQL Firebase SQLite Supabase Redis Blockchain Analytics Data Mining Graph Analytics Exploratory Data Analysis (EDA) Excel Bitcoin Architecture Ethereum Basics Cryptocurrency Transaction Analysis Network Analysis Pattern Recognition
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⬡ Cybersecurity Operations
+
+JWT Authentication OWASP Basics Secure Coding Threat Detection Vulnerability Assessment Kali Linux Ubuntu Metasploit Hydra Nikto Nmap Wireshark Burp Suite Encryption DVWA SOC Concepts Threat Hunting
+
+</td>
+<td width="50%" valign="top">
+
+☁ Infra, Cloud & DevOps
+
+AWS Cloud Computing Vercel Git GitHub Docker Kubernetes GitHub Actions Linux CI/CD Postman VS Code Replit Slack
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+✦ AI & LLM Platforms
+
+ChatGPT Gemini Grok NotebookLM DeepSeek Inception Labs Copilot Codex Antigravity Claude OpenCode Ollama MiniMax Qwen GenSpark AI OpenAI OpenRouter Google AI Studio
+
+</td>
+<td width="50%" valign="top">
+
+◉ Academic & CS Core
+
+Database Management Systems (DBMS) Computer Networks Operating Systems Cryptography Secure Coding Artificial Intelligence Machine Learning Fundamentals System Design Computer Organization & Architecture OOPs
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+AI / LLM　FULL STACK　CYBERSECURITY　DATA　CLOUD　DEVOPS
+
+LEARN → BUILD → TEST → SECURE → DEPLOY → SCALE
+
+</div>
+
+👋 ABOUT ME
 
 $ whoami
 > A developer turning ambitious ideas into useful, intelligent systems.
@@ -28,334 +115,97 @@ $ whoami
 $ cat focus.txt
 > AI · LLM Engineering · Full-Stack · Cybersecurity · Cloud · Data
 
-I am a Full-Stack Developer and AI/ML Engineer based in Bengaluru, India. My work lives at the
-intersection of artificial intelligence, LLM engineering, modern web development, cybersecurity, data
-analytics, cloud infrastructure, DevOps and blockchain analytics.
+I am a Full-Stack Developer and AI/ML Engineer based in Bengaluru, India. My work sits at the intersection of artificial intelligence, LLM engineering, modern web development, cybersecurity, data analytics, cloud infrastructure, DevOps and blockchain analytics.
 
-I enjoy solving hard problems, competing in coding contests, and turning ambitious ideas into practical,
-secure systems that people can actually use.
+I enjoy solving hard problems, competing in coding challenges and turning ambitious ideas into practical, secure systems that people can actually use.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<b>🎯 Currently Exploring</b>
-<ul>
-  <li>🤖 LLMs, RAG and agentic AI systems</li>
-  <li>🌐 Modern full-stack architecture</li>
-  <li>🛡️ Threat detection &amp; secure coding</li>
-  <li>📊 Data and blockchain analytics</li>
-  <li>☁️ Cloud infrastructure and DevOps</li>
-  <li>⚙️ Intelligent automation</li>
-</ul>
+
+Currently Exploring
+
+LLMs, RAG and agentic AI systems
+
+Modern full-stack architecture
+
+Threat detection and secure coding
+
+Data and blockchain analytics
+
+Cloud infrastructure and DevOps
+
+Intelligent automation
+
 </td>
 <td width="50%" valign="top">
-<b>🧭 Quick Profile</b>
-<ul>
-  <li><b>Role:</b> Full-Stack / AI-ML Engineer</li>
-  <li><b>Location:</b> Bengaluru, Karnataka, India</li>
-  <li><b>Languages:</b> English · Hindi · Telugu · Kannada</li>
-  <li><b>Interests:</b> AI · Security · Cloud · Data</li>
-  <li><b>Approach:</b> Learn deeply, then build practically</li>
-  <li><b>Mindset:</b> Build · Secure · Automate · Innovate</li>
-</ul>
+
+Quick Profile
+
+Role: Full-Stack / AI-ML Engineer
+
+Location: Bengaluru, Karnataka, India
+
+Languages: English · Hindi · Telugu · Kannada
+
+Interests: AI · Security · Cloud · Data
+
+Approach: Learn deeply, then build practically
+
+Mindset: Build · Secure · Automate · Innovate
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <h4><code>LEARN → BUILD → TEST → SECURE → DEPLOY → SCALE</code></h4>
-</div>
-
-🧰 Technology Arsenal
+📊 GITHUB AT A GLANCE
 
 <div align="center">
-  <b>💻 Languages · Web · Runtime</b>
-  <br>
-  <img src="https://skillicons.dev/icons?i=python,js,c,java,nodejs,react,nextjs,html,css,tailwind,express,fastapi,vite&perline=13" alt="Languages and web technologies" />
-  <br><br>
-  <b>🤖 AI / ML · Data · Databases</b>
-  <br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,postgres,mongodb,mysql,sqlite,firebase,supabase,redis&perline=12" alt="AI, ML and database technologies" />
-  <br><br>
-  <b>☁️ Cloud · DevOps · Engineering Tools</b>
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,githubactions,linux,vercel,postman,vscode,jupyter,figma&perline=12" alt="Cloud, DevOps and engineering tools" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sramasu&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb" alt="GitHub statistics">
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sramasu&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=e5e7eb&langs_count=8" alt="Most used languages">
+
+<br><br>
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=sramasu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies">
+
+<br>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=sramasu&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f472b6&area=true&area_color=7c3aed&hide_border=true&custom_title=Sravan's%20Contribution%20Journey" alt="Contribution graph">
+
 </div>
 
-💜 AI & LLM Engineering
+Note: Language statistics reflect public repository usage, not experience level or proficiency.
 
-
-
-
-
-
-
-Transformers RAG Pipelines Agentic AI Vector Stores Deep Learning NLP
-
-LLMs Prompt Engineering Model Evaluation Data Preprocessing Feature Engineering
-
-💙 Full-Stack Engineering
-
-
-
-
-
-
-
-React.js Next.js HTML5 CSS3 Tailwind CSS Express.js FastAPI
-
-REST APIs WebSockets Vite Node.js Axios SQL C Java
-
-❤️ Cybersecurity Operations
-
-
-
-
-
-
-
-JWT Authentication Secure Coding Encryption Threat Detection Vulnerability Assessment
-
-Ubuntu Metasploit Hydra Nmap DVWA SOC Concepts Threat Hunting
-
-🩷 Data & Blockchain Systems
-
-
-
-
-
-
-
-Firebase SQLite Supabase Excel Pandas NumPy EDA Data Mining
-
-Graph Analytics Blockchain Analytics Transaction Analysis Network Analysis
-
-🩵 Cloud, Infra & DevOps
-
-
-
-
-
-
-
-Cloud Computing Git GitHub Linux CI/CD Postman VS Code Jupyter
-
-💚 AI Platforms & CS Core
-
-ChatGPT Gemini Claude Grok DeepSeek Copilot NotebookLM OpenAI
-
-OpenRouter Ollama Qwen MiniMax Google AI Studio GenSpark AI
-
-DBMS Computer Networks Operating Systems OOP Cryptography System Design
-
-📈 GitHub at a Glance
+🚀 FEATURED BUILD
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sramasu&show_icons=true&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sramasu&show_icons=true&rank_icon=github&hide_border=true&bg_color=ffffff&title_color=7c3aed&icon_color=0891b2&text_color=374151" alt="GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sramasu&layout=compact&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=e5e7eb&langs_count=8" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sramasu&layout=compact&hide_border=true&bg_color=ffffff&title_color=db2777&text_color=374151&langs_count=8" alt="Most used languages" />
-  </picture>
-  <br><br>
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=sramasu&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-  <br>
-  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=sramasu&bg_color=0d1117&color=a78bfa&line=22d3ee&point=f472b6&area=true&area_color=7c3aed&hide_border=true&custom_title=Sravan's%20Contribution%20Journey" alt="Contribution graph" />
+
+🛡️ SENTINEL-FIN
+
+AI-Powered Financial Cybersecurity
+
+AI/ML Cybersecurity RAG Data Analytics Threat Detection Pattern Recognition Network Analysis
+
 </div>
 
-Note: Language cards show the languages used in public repositories — not experience level or proficiency.
-
-🏗️ Engineering Domains
-
-
-
-Domain
-
-What I Work With
-
-🤖
-
-AI / ML & LLM Engineering
-
-RAG · Agents · LangChain · Transformers · NLP · Deep Learning · Evaluation
-
-🌐
-
-Full-Stack Architecture
-
-React · Next.js · Node.js · Express · FastAPI · REST · WebSockets
-
-🛡️
-
-Cybersecurity
-
-OWASP · Secure Coding · Threat Detection · Vulnerability Assessment · SOC
-
-📊
-
-Data & Analytics
-
-SQL · Pandas · EDA · Data Mining · Graph and Blockchain Analytics
-
-☁️
-
-Cloud & DevOps
-
-AWS · Docker · Kubernetes · GitHub Actions · Linux · CI/CD · Vercel
-
-<details>
-<summary><b>🤖 AI & LLM Applications</b></summary>
-I explore and build applications using <code>LLMs</code>, <code>RAG</code>, <code>LangChain</code>, <code>Agentic AI</code>, <code>NLP</code>, <code>Transformers</code>, <code>Prompt Engineering</code>, <code>Model Evaluation</code> and <code>AI Automation</code>.
-<pre><code>USER → PROMPT → LLM / AGENT → RETRIEVAL → KNOWLEDGE → REASONING → ACTION</code></pre>
-</details>
-
-<details>
-<summary><b>🔐 Cybersecurity Interests</b></summary>
-Vulnerability assessment · OWASP practices · Threat detection · Network analysis · Linux security · Authentication and encryption · SOC concepts · Ethical hacking · Security monitoring · Threat intelligence and hunting.
-</details>
-
-<details>
-<summary><b>📊 Data & Blockchain Analytics</b></summary>
-Data preprocessing · Exploratory data analysis · Data mining · Graph analytics · Blockchain analytics · Ethereum fundamentals · Cryptocurrency transaction analysis · Network analysis · Pattern recognition · SQL analytics · Python / Pandas workflows.
-</details>
-
-🚀 Featured Build
-
-<div align="center">
-  <h3>🛡️ SENTINEL-FIN</h3>
-  <h4>AI-Powered Financial Cybersecurity</h4>
-  <p>
-    <code>AI/ML</code> <code>Cybersecurity</code> <code>RAG</code> <code>Data Analytics</code> <code>Threat Detection</code> <code>Pattern Recognition</code> <code>Network Analysis</code>
-  </p>
-</div>
-
-A security-focused system concept combining AI/ML, financial intelligence, threat detection, analytics and
-cybersecurity operations — transforming raw financial and security data into actionable risk intelligence.
+A security-focused system concept combining AI/ML, financial intelligence, threat detection, analytics and cybersecurity operations to transform raw financial and security data into actionable risk intelligence.
 
 FINANCIAL + SECURITY DATA
-            ↓
-      DATA PREPARATION
-            ↓
-   THREAT & PATTERN ANALYSIS
-            ↓
-      AI INTELLIGENCE
-            ↓
-    RISK & SECURITY INSIGHTS
-            ↓
-   ACTIONABLE INTELLIGENCE
+          ↓
+    DATA PREPARATION
+          ↓
+ THREAT & PATTERN ANALYSIS
+          ↓
+     AI INTELLIGENCE
+          ↓
+  RISK & SECURITY INSIGHTS
+          ↓
+ ACTIONABLE INTELLIGENCE
 
-🏅 Professional Certifications
+🧠 ARCHITECTURE MINDSET
 
-Credentials spanning cybersecurity, cloud, AI, automation, full-stack development and DevOps.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>🛡️ Google Cybersecurity — Google</b><br>
-Security frameworks, network security, security operations and incident response.<br>
-<code>Cybersecurity</code> <code>Network Security</code> <code>SOC</code>
-<br><br>
-<b>⚙️ Google IT Automation with Python — Google</b><br>
-Python scripting, automation, operating systems, Git and version control.<br>
-<code>Python</code> <code>Automation</code> <code>Git</code>
-<br><br>
-<b>🌐 Full Stack Software Developer — IBM</b><br>
-Cloud-native architectures, React, Node.js and backend development.<br>
-<code>Full Stack</code> <code>React</code> <code>Node.js</code> <code>Cloud</code>
-<br><br>
-<b>🤖 RAG and Agentic AI — IBM</b><br>
-Vector stores, LLM orchestration, retrieval systems and agent workflows.<br>
-<code>RAG</code> <code>LLM</code> <code>Agentic AI</code>
-</td>
-<td width="50%" valign="top">
-<b>✨ Generative AI Fundamentals — Google</b><br>
-Generative AI foundations, transformer architecture and prompting concepts.<br>
-<code>Generative AI</code> <code>Transformers</code> <code>Prompting</code>
-<br><br>
-<b>🚀 DevOps Foundation — Infosys</b><br>
-CI/CD pipelines, containerization and deployment automation.<br>
-<code>DevOps</code> <code>CI/CD</code> <code>Containers</code>
-<br><br>
-<b>☁️ Cloud Career Launchpad (Cybersecurity Track) — Google Cloud</b><br>
-Cloud infrastructure security, identity and security management.<br>
-<code>Google Cloud</code> <code>Cloud Security</code>
-<br><br>
-<b>🔐 Ethical Hacking with Open Source Tools — IBM</b><br>
-Offensive security tooling, reconnaissance and defensive countermeasures.<br>
-<code>Ethical Hacking</code> <code>Open Source</code>
-</td>
-</tr>
-</table>
-
-📚 Complete Learning Portfolio
-
-<details>
-<summary><b>🔽 View all 22 programs, certifications and learning milestones</b></summary>
-<table>
-<tr><th align="left">#</th><th align="left">Program / Certification</th><th align="left">Focus</th></tr>
-<tr><td>01</td><td>🤖 AI Agent Developer — Vanderbilt University</td><td>AI Agents</td></tr>
-<tr><td>02</td><td>✨ Outskill Generative AI Mastermind</td><td>Generative AI</td></tr>
-<tr><td>03</td><td>☁️ AWS Cloud Technology Consultant</td><td>Cloud</td></tr>
-<tr><td>04</td><td>📊 ChatGPT: Excel &amp; Personal Automation with GPTs, AI &amp; Zapier — Vanderbilt</td><td>AI Automation</td></tr>
-<tr><td>05</td><td>🧠 ChatGPT: Master Free AI Tools to Supercharge Productivity — Vanderbilt</td><td>AI Productivity</td></tr>
-<tr><td>06</td><td>🛡️ Code ER — Bug Hunting Competition</td><td>Cybersecurity</td></tr>
-<tr><td>07</td><td>⚙️ Generative AI Automation — Vanderbilt University</td><td>Generative AI</td></tr>
-<tr><td>08</td><td>📊 Generative AI Data Analyst — Vanderbilt University</td><td>AI / Data</td></tr>
-<tr><td>09</td><td>🗄️ Generative AI SQL Database Specialist with ChatGPT</td><td>SQL / AI</td></tr>
-<tr><td>10</td><td>🎯 Generative AI Strategic Leader — Vanderbilt University</td><td>AI Strategy</td></tr>
-<tr><td>11</td><td>🔎 Getting Started with Threat Intelligence and Hunting</td><td>Threat Intelligence</td></tr>
-<tr><td>12</td><td>☁️ Google Cloud Career Launchpad — Cybersecurity Track</td><td>Cloud Security</td></tr>
-<tr><td>13</td><td>✨ Google Cloud Introduction to Generative AI Learning Path</td><td>Generative AI</td></tr>
-<tr><td>14</td><td>🛡️ Google Cybersecurity</td><td>Cybersecurity</td></tr>
-<tr><td>15</td><td>🐍 Google IT Automation with Python</td><td>Python / Automation</td></tr>
-<tr><td>16</td><td>🔐 IBM Ethical Hacking with Open Source Tools</td><td>Ethical Hacking</td></tr>
-<tr><td>17</td><td>🌐 IBM Full Stack Software Developer</td><td>Full Stack</td></tr>
-<tr><td>18</td><td>🤖 IBM RAG and Agentic AI</td><td>AI / LLM</td></tr>
-<tr><td>19</td><td>🚀 Infosys DevOps Foundation Certification</td><td>DevOps</td></tr>
-<tr><td>20</td><td>🛡️ Microsoft Cybersecurity Analyst</td><td>Cybersecurity</td></tr>
-<tr><td>21</td><td>🍃 MongoDB Certifications</td><td>Database</td></tr>
-<tr><td>22</td><td>🏢 Security Operations Center in Practice</td><td>SOC / Cybersecurity</td></tr>
-</table>
-</details>
-
-🏆 Achievements & Competitive Programming
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<b>🥉 Code ER: Bug Hunting — 3rd Place</b><br>
-<i>IEEE Day 2025 · Bannari Amman Institute of Technology</i><br><br>
-Placed third in the Code ER Bug Hunting Competition, applying practical bug-hunting and security problem-solving skills.<br>
-<code>Bug Hunting</code> <code>Cybersecurity</code> <code>Problem Solving</code>
-</td>
-<td width="50%" valign="top">
-<b>🥇 TCS National Qualifier Test — NQT Offer</b><br>
-<i>Nationwide cognitive &amp; technical assessment</i><br><br>
-Cleared the <b>TCS National Qualifier Test</b>, a nationwide assessment of cognitive ability, programming logic and problem-solving skills.<br>
-<code>Coding</code> <code>Logic</code> <code>Problem Solving</code>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<b>🍳 CodeChef</b><br>
-<code>sravan_20_06</code><br><br>
-Algorithms · Competitive programming · Problem solving<br><br>
-<a href="https://www.codechef.com/users/sravan_20_06"><b>↗ OPEN CODECHEF PROFILE</b></a>
-</td>
-<td width="50%" align="center" valign="top">
-<b>⚡ LeetCode</b><br>
-<code>V_SRAVAN_REDDY</code><br><br>
-Data structures · Algorithms · Coding challenges<br><br>
-<a href="https://leetcode.com/u/V_SRAVAN_REDDY/"><b>↗ OPEN LEETCODE PROFILE</b></a>
-</td>
-</tr>
-</table>
-
-🧠 Architecture Mindset
-
-☁️ Delivery Pipeline
+Delivery Pipeline
 
 DEVELOP
    ↓
@@ -369,7 +219,7 @@ AWS / Docker / Kubernetes
    ↓
 GitHub Actions → Vercel
 
-🛡️ Security by Design
+Security by Design
 
 APPLICATION
    ↓
@@ -385,74 +235,292 @@ DETECT → FIX → LEARN
 
 Security is not an afterthought — it is part of the architecture.
 
-                    V SRAVAN REDDY — ENGINEERING HUB
-                                 │
-      ┌──────────────────────────┼──────────────────────────┐
-      ▼                          ▼                          ▼
-   AI / LLM                CYBERSECURITY                FULL STACK
-   ├── RAG                 ├── OWASP                    ├── React
-   ├── Agents              ├── Threat Detection         ├── Next.js
-   ├── NLP                 ├── Network Analysis         ├── Node.js
-   ├── Deep Learning       ├── Linux Security           ├── Express
-   └── Transformers        └── SOC Operations           └── FastAPI
-      │                          │                          │
-      └──────────────────────────┼──────────────────────────┘
-                                 ▼
-                          CLOUD / DEVOPS
-                   AWS · Docker · Kubernetes · CI/CD
-                                 │
-                                 ▼
-                        DATA & ANALYTICS
-        SQL · Pandas · Data Mining · Graph · Blockchain
+🏅 CERTIFICATIONS & LEARNING
 
-🎯 Beyond the Terminal
+Professional Certifications
+
+Area
+
+Credential
+
+🛡️ Cybersecurity
+
+Google Cybersecurity — Google
+
+⚙️ Automation
+
+Google IT Automation with Python — Google
+
+🌐 Full Stack
+
+Full Stack Software Developer — IBM
+
+🤖 AI / LLM
+
+RAG and Agentic AI — IBM
+
+✨ Generative AI
+
+Generative AI Fundamentals — Google
+
+🚀 DevOps
+
+DevOps Foundation — Infosys
+
+☁️ Cloud Security
+
+Cloud Career Launchpad (Cybersecurity Track) — Google Cloud
+
+🔐 Ethical Hacking
+
+Ethical Hacking with Open Source Tools — IBM
+
+<details>
+<summary><b>📚 View all 22 programs, certifications and learning milestones</b></summary>
+
+#
+
+Program / Certification
+
+Focus
+
+01
+
+🤖 AI Agent Developer — Vanderbilt University
+
+AI Agents
+
+02
+
+✨ Outskill Generative AI Mastermind
+
+Generative AI
+
+03
+
+☁️ AWS Cloud Technology Consultant
+
+Cloud
+
+04
+
+📊 ChatGPT: Excel & Personal Automation with GPTs, AI & Zapier — Vanderbilt
+
+AI Automation
+
+05
+
+🧠 ChatGPT: Master Free AI Tools to Supercharge Productivity — Vanderbilt
+
+AI Productivity
+
+06
+
+🛡️ Code ER — Bug Hunting Competition
+
+Cybersecurity
+
+07
+
+⚙️ Generative AI Automation — Vanderbilt University
+
+Generative AI
+
+08
+
+📊 Generative AI Data Analyst — Vanderbilt University
+
+AI / Data
+
+09
+
+🗄️ Generative AI SQL Database Specialist with ChatGPT
+
+SQL / AI
+
+10
+
+🎯 Generative AI Strategic Leader — Vanderbilt University
+
+AI Strategy
+
+11
+
+🔎 Getting Started with Threat Intelligence and Hunting
+
+Threat Intelligence
+
+12
+
+☁️ Google Cloud Career Launchpad — Cybersecurity Track
+
+Cloud Security
+
+13
+
+✨ Google Cloud Introduction to Generative AI Learning Path
+
+Generative AI
+
+14
+
+🛡️ Google Cybersecurity
+
+Cybersecurity
+
+15
+
+🐍 Google IT Automation with Python
+
+Python / Automation
+
+16
+
+🔐 IBM Ethical Hacking with Open Source Tools
+
+Ethical Hacking
+
+17
+
+🌐 IBM Full Stack Software Developer
+
+Full Stack
+
+18
+
+🤖 IBM RAG and Agentic AI
+
+AI / LLM
+
+19
+
+🚀 Infosys DevOps Foundation Certification
+
+DevOps
+
+20
+
+🛡️ Microsoft Cybersecurity Analyst
+
+Cybersecurity
+
+21
+
+🍃 MongoDB Certifications
+
+Database
+
+22
+
+🏢 Security Operations Center in Practice
+
+SOC / Cybersecurity
+
+</details>
+
+🏆 ACHIEVEMENTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<b>🧠 Core Interests</b>
-<ul>
-  <li>Solving coding challenges</li>
-  <li>Competitive hackathons</li>
-  <li>Tracking emerging technology</li>
-  <li>Building practical projects</li>
-  <li>Exploring AI and cybersecurity</li>
-</ul>
+
+🥉 Code ER: Bug Hunting — 3rd Place
+
+IEEE Day 2025 · Bannari Amman Institute of Technology
+
+Placed third in the Code ER Bug Hunting Competition, applying practical bug-hunting and security problem-solving skills.
+
+Bug Hunting Cybersecurity Problem Solving
+
 </td>
 <td width="50%" valign="top">
-<b>🏏 Tactical Play</b>
-<ul>
-  <li>Cricket and football</li>
-  <li>Video games</li>
-  <li>Esports and simulation</li>
-  <li>Indoor strategy games</li>
-  <li>Table sports</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<b>🌍 Intel Stream</b>
-<ul>
-  <li>Geopolitical analysis</li>
-  <li>Live sports</li>
-  <li>Cinema and series</li>
-  <li>Media broadcasting</li>
-</ul>
-</td>
-<td valign="top">
-<b>🎧 Recovery Mode</b>
-<ul>
-  <li>Music discovery and curation</li>
-  <li>Movies and storytelling</li>
-  <li>Strategy games</li>
-  <li>Tech communities</li>
-</ul>
+
+🥇 TCS National Qualifier Test — NQT Offer
+
+Cleared the TCS National Qualifier Test, demonstrating cognitive ability, programming logic and problem-solving skills.
+
+Coding Logic Problem Solving
+
 </td>
 </tr>
 </table>
 
-🧩 Engineering Philosophy
+<div align="center">
+
+CodeChef · sravan_20_06
+Algorithms · Competitive Programming · Problem Solving
+
+LeetCode · V_SRAVAN_REDDY
+Data Structures · Algorithms · Coding Challenges
+
+</div>
+
+🎯 BEYOND THE TERMINAL
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Core Interests
+
+Solving coding challenges
+
+Competitive hackathons
+
+Tracking emerging technology
+
+Building practical projects
+
+Exploring AI and cybersecurity
+
+</td>
+<td width="50%" valign="top">
+
+Tactical Play
+
+Cricket and football
+
+Video games
+
+Esports and simulation
+
+Indoor strategy games
+
+Table sports
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Intel Stream
+
+Geopolitical analysis
+
+Live sports
+
+Cinema and series
+
+Media broadcasting
+
+</td>
+<td valign="top">
+
+Recovery Mode
+
+Music discovery and curation
+
+Movies and storytelling
+
+Strategy games
+
+Tech communities
+
+</td>
+</tr>
+</table>
+
+🧩 ENGINEERING PHILOSOPHY
 
 class SravanReddy:
     roles = [
@@ -486,58 +554,26 @@ class SravanReddy:
     def build(self, idea):
         return self.learn(idea).secure().ship().scale()
 
-📬 Let's Connect
+📬 LET'S CONNECT
 
 <div align="center">
-  <h4>⚡ BUILD · SECURE · AUTOMATE · INNOVATE</h4>
-  <i>Turning ideas into intelligent systems.</i>
-</div>
 
+⚡ BUILD · SECURE · AUTOMATE · INNOVATE
 
+Turning ideas into intelligent systems.
 
-Platform
-
-Find me at
-
-✉️
-
+GitHub ·
+LinkedIn ·
+CodeChef ·
+LeetCode ·
 Email
 
-sravanv2611@gmail.com
+📍 Bengaluru, Karnataka, India
 
-🐙
+<br>
 
-GitHub
+⭐ Thanks for visiting my profile!
 
-github.com/sramasu
+Thanks for visiting — let's build something meaningful.
 
-💼
-
-LinkedIn
-
-Sravan Reddy
-
-🍳
-
-CodeChef
-
-sravan_20_06
-
-⚡
-
-LeetCode
-
-V_SRAVAN_REDDY
-
-📍
-
-Location
-
-Bengaluru, Karnataka, India
-
-<div align="center">
-  <h4>⭐ Thanks for visiting my profile!</h4>
-  <code>Thanks for visiting — let's build something meaningful.</code>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12&height=120&section=footer" width="100%" alt="footer" />
 </div>

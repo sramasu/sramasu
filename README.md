@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # <span style="color:#8B5CF6">⚡ V SRAVAN REDDY ⚡</span>

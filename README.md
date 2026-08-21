@@ -1,8 +1,70 @@
+```html
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,12&height=200&section=header&text=V%20SRAVAN%20REDDY&fontSize=58&fontAlignY=42&fontColor=ffffff&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%26%20LLM%20Engineer%20%C2%B7%20Cybersecurity&descSize=18&descAlignY=74&descColor=e9d5ff" width="100%" alt="V Sravan Reddy banner" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+intelligent+digital+systems+%F0%9F%A4%96;Engineering+secure+full-stack+experiences+%F0%9F%9B%A1%EF%B8%8F;Exploring+RAG%2C+agents+and+cybersecurity+%E2%9A%A1;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Scale+%F0%9F%9A%80" alt="Typing introduction" />
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=V%20SRAVAN%20REDDY&fontSize=65&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%26%20LLM%20Engineer%20%7C%20Cybersecurity&descSize=20&descAlignY=65&descColor=e9d5ff" width="100%" alt="V Sravan Reddy banner" />
+  
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=850&lines=Building+intelligent+web+applications+%F0%9F%A4%96;Engineering+secure+full-stack+architecture+%F0%9F%9B%A1%EF%B8%8F;Exploring+RAG,+LangChain+%26+Cybersecurity+%E2%9A%A1;Developing+blockchain+%26+data+analytics+%F0%9F%93%8A;Architecting+scalable+cloud+infrastructure+%E2%98%81%EF%B8%8F;Learn+%E2%86%92+Build+%E2%86%92+Secure+%E2%86%92+Scale+%F0%9F%9A%80" alt="Typing introduction" />
+  
+  <br><br>
+
+  <p>
+    <a href="https://github.com/sramasu"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/sravan-v-905534384"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" /></a>
+    <a href="mailto:sravanv2611@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" /></a>
+    <a href="https://www.codechef.com/users/sravan_20_06"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=10B981" alt="CodeChef" /></a>
+    <a href="https://leetcode.com/u/V_SRAVAN_REDDY/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=10B981" alt="LeetCode" /></a>
+  </p>
+</div>
+
+<br>
+
+<div align="left">
+  <h3 style="color: #10B981; font-family: monospace;"><code>// whoami</code></h3>
+  <p><b>Full Stack Developer & AI/ML Engineer</b> focused on building intelligent web applications, blockchain analytics, and secure software architecture. Every application is built with security at its core using OWASP practices, JWT authentication, and active threat detection.</p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/📍_Bengaluru,_Karnataka,_India-0D1117?style=flat-square&logoColor=10B981" alt="Location" />
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/🌐_English_·_Hindi_·_Telugu_·_Kannada-0D1117?style=flat-square&logoColor=10B981" alt="Languages" />
+  </p>
+</div>
+
+<br>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33%" valign="top">
+      <h4 style="color: #10B981;">🤖 AI / ML & LLM Engineering</h4>
+      <p><sub>RAG Pipelines · Prompt Engineering · LangChain · Transformers · Model Evaluation</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 style="color: #10B981;">🌐 Full Stack Web Architecture</h4>
+      <p><sub>React.js · Next.js · FastAPI · Express.js · PostgreSQL · REST APIs</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 style="color: #10B981;">🛡️ Cybersecurity & Threat Ops</h4>
+      <p><sub>JWT Authentication · OWASP · Secure Coding · Threat Detection · Vulnerability Assessment</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 style="color: #10B981;">📊 Data Engineering & Analytics</h4>
+      <p><sub>Data Pipelines · Blockchain Analytics · Data Mining · Graph Analytics · Exploratory Data Analysis (EDA)</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 style="color: #10B981;">☁️ Cloud Infrastructure & DevOps</h4>
+      <p><sub>AWS · Cloud Architecture · Docker · Kubernetes · CI/CD Automation · Vercel Deployment</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 style="color: #10B981;">⚡ Academic Core</h4>
+      <p><sub>DBMS · Computer Networks · Operating Systems · OOPs · System Design</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+```
   
   <h3><b>Full Stack Developer &middot; AI/ML &amp; LLM Engineer &middot; Cybersecurity Focus</b></h3>
 
